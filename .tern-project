@@ -1,9 +1,8 @@
 {
+    "ecmaVersion": 6,
     "libs": [
-        "browser",
-        "lodash",
-        "react"
-            ],
-        "plugins": {
-        }
+        "browser"
+    ],
+    "plugins": {
+    }
 }
